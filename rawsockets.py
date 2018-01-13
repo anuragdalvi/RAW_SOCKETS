@@ -1,3 +1,4 @@
+#RAW_SOCKET
 import socket
 import sys
 import struct
